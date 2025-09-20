@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/sapms66:latest
+          tags: ghcr.io/${{ github.repository_owner }}/sapms666:latest
